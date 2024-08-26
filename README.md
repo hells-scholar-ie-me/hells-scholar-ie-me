@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Eli Holmes
+## I am using the generic greeting because it was already there.
+
+ I am interested in learning programming because I have a few ideas for apps that i would like to make, as well as be able to modify existing programs that i use frequently. 😄 I am currently working on a recording projoect with a friend of mine who lives in Kentucky😀. My favorite hobby is playing music and Magic the Gathering.  I have a recording studio at home, but i had to move recently so i am opperating on a condensed version of it.  
 
 <!--
 **hells-scholar-ie-me/hells-scholar-ie-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
